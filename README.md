@@ -16,14 +16,13 @@ Web FullStack Developer
 
 2022.09 ~ 2022.12
 
-사용한 기술
-
 - Springboot를 이용해 필요한 api 개발
 - AWS 기반 아키텍처 설계 및 구축
 - 도메인 연결 및 https 적용
 - FrontEnd 화면 개발, Netlify를 통한 웹 배포
 - AWS-LAMDA,API-GATEWAY를 이용한 공공 날씨 이용 API 개발
 
+### 사용한 기술
 - Backend
     - SpringBoot-JDBC, MYBATIS
     - Linux-Ubuntu
@@ -53,11 +52,6 @@ Web FullStack Developer
 
 
 
-## 사용 기술 및 환경
-
----
-
-Spring boot, Gradle, Mybatis, MySQL, Java11, AWS Cloud, Linux-Ubuntu,Html,CSS,JavaScript,Netlify
 
 ## 화면설계
 
