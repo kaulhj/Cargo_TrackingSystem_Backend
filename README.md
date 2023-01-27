@@ -38,7 +38,7 @@ Web FullStack Developer
 
 ## 프로젝트 전체적인 구조
 
-![Untitled](%E1%84%92%E1%85%AA%E1%84%86%E1%85%AE%E1%86%AF%E1%84%8E%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%A8%20%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7%206dcf5aa4e0e7498dbb7ba7a1ef5fb87d/Untitled.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70d5dfb2-1aea-4413-a421-67c169eb86a9/Untitled.png)
 
 ### Sequence Diagram
 
