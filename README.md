@@ -4,13 +4,13 @@
 
 (주)씨에어허브 물류기업 과 함께한 산학협력 프로젝트로, 화물 운송 중 측정한 데이터 및 날씨, 운송정보등을 앱으로 측정하여 웹으로 시각화 한 프로젝트입니다.
 
-### 참여인원(4명)
+## 참여인원(4명)
 
 - 기획 : 2명
 - Android : 1명
 - WebFullStack : 1명(본인)
 
-### 본인 기여한 역할
+## 본인 기여한 역할
 
 Web FullStack Developer
 
@@ -22,7 +22,7 @@ Web FullStack Developer
 - FrontEnd 화면 개발, Netlify를 통한 웹 배포
 - AWS-LAMDA,API-GATEWAY를 이용한 공공 날씨 이용 API 개발
 
-### 사용한 기술
+## 사용한 기술
 - Backend
     - SpringBoot-JDBC, MYBATIS
     - Linux-Ubuntu
@@ -43,7 +43,7 @@ Web FullStack Developer
 
 ![image](https://user-images.githubusercontent.com/89002687/215186767-19fecb4a-2905-4f94-a3e1-b22ca2ce1d30.png)
 
-### Sequence Diagram
+## Sequence Diagram
 
 ![image](https://user-images.githubusercontent.com/89002687/215186956-8709cdb3-bbff-45b2-bfd5-fed6e8ef7a4d.png)
 - 실제 화물기사님이 화물차량을 이용해 운송을 시작하실 때 안드로이드 어플리케이션을 통해 로그인 및 측정을 시작 하고, 운행 종료 시점까지 일정간격, 약 15분에 한번씩 실시간 위치, 날씨, 운송정보가 기록되고 종료버튼을 누를 시 측정이 종료됩니다.
