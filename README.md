@@ -41,7 +41,7 @@ Web FullStack Developer
 
 ## 프로젝트 전체적인 구조
 
-![image](https://user-images.githubusercontent.com/89002687/215186767-19fecb4a-2905-4f94-a3e1-b22ca2ce1d30.png)
+%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3Ddefault%3BverticalAlign%3Dtop%3Baspect%3Dfixed%3BimageAspect%3D0%3Bimage%3Dhttps%3A%2F%2Fuser-images.githubusercontent.com%2F89002687%2F215186767-19fecb4a-2905-4f94-a3e1-b22ca2ce1d30.png%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1390%22%20y%3D%221380%22%20width%3D%223761.17%22%20height%3D%221490%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E
 
 ## Sequence Diagram
 
