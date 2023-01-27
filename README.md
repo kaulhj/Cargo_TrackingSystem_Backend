@@ -36,6 +36,10 @@ Web FullStack Developer
 
 ---
 
+## WBS(작업 분할 구조도)
+
+![image](https://user-images.githubusercontent.com/89002687/215186983-543350fc-9188-4b09-b0ce-54213b6eeea7.png)
+
 ## 프로젝트 전체적인 구조
 
 ![image](https://user-images.githubusercontent.com/89002687/215186767-19fecb4a-2905-4f94-a3e1-b22ca2ce1d30.png)
@@ -47,9 +51,7 @@ Web FullStack Developer
 - 측정되는 과정에서는 웹서버를 통해 날씨를 조회하고, Reverse GeoCoding(역지오코딩)을 통해서 공공 API를 통해 날씨정보와 위도, 경도 input값을 통한 실제 주소 위치정보를 반환 받습니다. 이를 Database에 저장 합니다.
 - 웹 어플리케이션을 통해 Database를 통해 측정된 Data정보를 요청하여 이를 KAKAO-MAP API를 이용해 시각화에 사용합니다.
 
-## WBS(작업 분할 구조도)
 
-![image](https://user-images.githubusercontent.com/89002687/215186983-543350fc-9188-4b09-b0ce-54213b6eeea7.png)
 
 ## 사용 기술 및 환경
 
